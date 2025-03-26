@@ -35,4 +35,4 @@ Esta biblioteca foi desenvolvida para implementar e estudar diversas estruturas 
 1. **Clone o repositório:**
 
    ```bash
-   git clone https://github.com/usuario/biblioteca-arvores.git
+   https://github.com/sayydaviid/Biblioteca-de-Estruturas-de-Dados-e-Algoritmos.git
